@@ -3,9 +3,16 @@ subject: 'cat:cs.CR'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        secure computation: 5
+        multiparty: 5
+        multi-party: 5
+        MPC: 5
+        homomorphic encryption: 4
+        secret sharing: 4
+        differential privacy: 4
+        garbled circuit: 4
+        verifiable computation: 3
+        verifiable computing: 3
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 2
